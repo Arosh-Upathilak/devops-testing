@@ -1,1 +1,8 @@
 Main.class
+*.class
+*.jar
+*.war
+*.ear
+.idea/
+*.iml
+.vscode/
